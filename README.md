@@ -6,9 +6,9 @@
 
 
 # Installation:
-	Go to directory /obj/release
+	Go to the releases of this github page
 	Download BombParty Test.exe
-	Run the program (Might trigger antivirus due to picture taking method as well as text recognition library)
+	Run the program
 
 
 # Usage:
