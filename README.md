@@ -14,4 +14,4 @@
 # Usage:
 	There are already preset parameters for the game BombParty and for the screen resolution 1920x1080
 	However, this can be changed using the two buttons named 'Set Top Left' and 'Set Bottom Right'
-	These buttons will change the parameters of the photo to wherever your cursor is after 3 seconds of clicking the button
+	These buttons will change the parameters of the photo to wherever your cursor is
