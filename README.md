@@ -8,7 +8,8 @@
 # Installation:
 	Go to the releases of this github page
 	Download BombParty Test.exe
-	Run the program
+	Download words.txt
+	Run BombParty Test.exe in the same folder as words.txt
 
 
 # Usage:
