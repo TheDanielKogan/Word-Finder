@@ -1,4 +1,4 @@
-﻿using IronOcr;
+using IronOcr;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -88,7 +88,7 @@ namespace BombParty_Test
         }
         void CheckEveryWord()
         {
-            string[] reader = File.ReadAllLines(@"D:\words.txt");
+            string[] reader = File.ReadAllLines(@"words.txt");
             bool trueorfalse = false;
             textBox1.Text = "";
             int words = 0;
